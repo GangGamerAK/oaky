@@ -1,0 +1,2 @@
+nodemon formyusa.js
+pause
