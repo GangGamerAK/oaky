@@ -1,0 +1,31 @@
+{
+    "name": "newbot",
+    "version": "1.0.0",
+    "description": "One guild bot",
+    "main": "Bot.js",
+    "engines": {
+        "node": "8.x"
+    },
+    "dependencies": {
+        "chalk": "^2.1.0",
+        "cheerio": "^1.0.0-rc.2",
+        "discord.js": "^11.2.1",
+        "express": "^4.16.2",
+        "google": "^2.1.0",
+        "moment": "^2.20.1",
+        "nodemon": "^1.12.6",
+        "querystring": "^0.2.0",
+        "randomstring": "^1.1.5",
+        "snekfetch": "^3.6.1",
+        "uuid": "^3.1.0",
+        "uws": "^8.14.1",
+        "youtube-node": "^1.3.2",
+        "youtube-search": "^1.0.10"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node Bot.js"
+    },
+    "author": "GangGamerAK#9102",
+    "license": "ISC"
+}

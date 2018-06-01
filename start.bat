@@ -1,0 +1,3 @@
+nodemon Bot.js
+rs
+
